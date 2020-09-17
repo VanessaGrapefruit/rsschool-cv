@@ -2,23 +2,38 @@
 
 Contacts |
 ---- | 
-:e-mail: 16lexa1602@gmail.com |
-:telephone_receiver: +375 29 636 93 28 |
-:octocat: https://github.com/VanessaGrapefruit |
+**E-mail:** 16lexa1602@gmail.com |
+**Phone:** +375 29 636 93 28 |
+**GitHub:** https://github.com/VanessaGrapefruit |
 
 -----------
 
-### Junior Full-stack Developer
-### Languages:
+## **Junior Full-stack Developer**
+#### **Personal qualities:**
+*Responsibility and focus on results. Active life position. Ability to prioritize. Personal organization and independence. Susceptibility to criticism. Multitasking. Stress resistance. Creativity. Optimism and a sense of humor.*
+#### **Looking for:**
+*Development, complexity, work in technologically complex projects, international communication.*
+
+### **Languages:**
 * C#
 * Javascript
 * Html / Css
-### Frameworks:
+### **Frameworks:**
 * ASP.NET Core
 * Entity Framework
 * React JS
 
+### **English**
+* Upper Intermediate, B2
+
+
 ---------------
+
+## Work experience
+
+*
+
+--------------
 
 ## Education
 
